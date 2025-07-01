@@ -3,14 +3,14 @@
 Bem vindo ao meu perfil
 
 ## 📋 Tabela de Conteúdos
-- ✨-funcionalidades
-- [Estrutura do Banco](#🗂️-estrutura-do-banco)
-- [Como Usar](#🚀-como-usar)
-- [Índices](#🔍-índices)
-- [Tecnologias](#💻-tecnologias)
-- [Instalação](#📦-instalação)
-- [Contribuição](#🤝-contribuição)
-- [Licença](#📜-licença)
+✨-funcionalidades
+🗂️-estrutura-do-banco
+🚀-como-usar
+#🔍-índices
+💻-tecnologias
+📦-instalação
+🤝-contribuição
+#📜-licença
 
 ## ✨ Funcionalidades
 
