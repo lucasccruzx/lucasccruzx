@@ -6,11 +6,11 @@ Bem vindo ao meu perfil
 ✨-funcionalidades
 🗂️-estrutura-do-banco
 🚀-como-usar
-#🔍-índices
+(🔍-índices)
 💻-tecnologias
 📦-instalação
 🤝-contribuição
-#📜-licença
+📜-licença
 
 ## ✨ Funcionalidades
 
