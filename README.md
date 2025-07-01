@@ -1,22 +1,21 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, me chamo Lucas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>
+Bem vindo ao meu perfil
 
-## 🚀 Sobre Mim
+## 📋 Tabela de Conteúdos
+- ✨-funcionalidades
+- [Estrutura do Banco](#🗂️-estrutura-do-banco)
+- [Como Usar](#🚀-como-usar)
+- [Índices](#🔍-índices)
+- [Tecnologias](#💻-tecnologias)
+- [Instalação](#📦-instalação)
+- [Contribuição](#🤝-contribuição)
+- [Licença](#📜-licença)
 
-```python
-class SobreMim:
-    def __init__(self):
-        self.nome = "[Seu Nome]"
-        self.area = "[Sua Área, ex: Desenvolvimento Web]"
-        self.local = "[Cidade/País]"
-        self.hobbies = ["[Hobby 1]", "[Hobby 2]"]
-        
-    def __str__(self):
-        return f"{self.nome} | {self.area} | {self.local}"
+## ✨ Funcionalidades
 
-eu = SobreMim()
-print(eu)
+- Cadastro de clientes e funcionários
+- Controle de estoque de alimentos e bebidas
+- Registro completo de pedidos
+- Relacionamentos entre todas as entidades
+- Índices para otimização de consultas
